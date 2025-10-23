@@ -3,8 +3,7 @@ title: "DNS and LES of the flow over periodic hills with a Remeshed Vortex Metho
 collection: publications
 category: manuscripts
 date: 2025-01-01
-venue: 'Flow, Turbulence and Combustion'
+venue: 'Submitted in Flow, Turbulence and Combustion'
 authors: M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti
-status: submitted
 layout: null
 ---
