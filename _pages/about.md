@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A propos de moi"
+title: "À propos de moi"
 author_profile: true
 redirect_from: 
   - /about/
