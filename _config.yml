@@ -29,9 +29,9 @@ author:
   employer         : #"Sorbonne Université"
   location         : |
     <span class="location-text">
-      Tour 26-00, bureau 301 <br />
-      4 place Jussieu <br />
-      Paris
+    Tour 26-00, bureau 301 <br />
+    4 place Jussieu <br />
+    Paris
     </span>
   uri              : # URL
   email            : "marthe(dot)de-crouy(at)lip6.fr" 
