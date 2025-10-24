@@ -11,4 +11,4 @@ J'ai soutenu ma thèse effectuée au laboratoire <a href="https://maths.cnam.fr/
 
 Mon <a href="https://mdecrouy.github.io/files/CV.pdf">CV</a> est disponible ici.
 
- <img src="sphere_vis-1.png" alt="écoulement autour d'une sphère">
+![écoulement autour d'une sphère]({{ '/images/sphere_vis-1.png' | relative_url }})
