@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Marthe de Crouy-Chanel"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc au LIP6 et LOCEAN"
-  employer         : "Sorbonne Université"
+  bio              : "Postdoctorante au LIP6 et LOCEAN (Sorbonne Université)"
+  employer         : #"Sorbonne Université"
   location         : |
     <span class="location-text">
       Tour 26-00, bureau 301 <br />
