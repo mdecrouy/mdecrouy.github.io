@@ -27,7 +27,12 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoc au LIP6 et LOCEAN"
   employer         : "Sorbonne Université"
-  location         : "Tour 26-00, Bureau 301<br /> 4 place Jussieu<br /> Paris"
+  location         : location: >
+  <span class="location-text">
+    Tour 26-00, Bureau 301<br />
+    4 place Jussieu<br />
+    Paris
+  </span>
   uri              : # URL
   email            : "marthe(dot)de-crouy(at)lip6.fr" 
 
