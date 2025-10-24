@@ -12,4 +12,6 @@ J'ai soutenu  en juillet 2025 ma <a href="https://theses.fr/s300776">thèse</a> 
 
 Mon CV est disponible <a href="https://mdecrouy.github.io/files/CV.pdf">ici</a>. Vous pouvez également accéder à mon <a href="https://mdecrouy.github.io/files/Thèse_dernière_version.pdf">manuscrit de thèse</a> et à mes <a href="https://mdecrouy.github.io/files/soutenance_compressed.pdf">transparents de soutenance</a>. 
 
+N'hésitez pas à me contacter pour toute question à l'adresse marthe(dot)de-crouy(at)lip6.fr. 
+
 ![écoulement autour d'une sphère]({{ '/images/sphere_vis-1.png' | relative_url }})
