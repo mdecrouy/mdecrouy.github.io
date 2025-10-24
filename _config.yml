@@ -44,7 +44,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7693-9482"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : #"http://researchgate.net/researchgate"
+  researchgate     : "https://www.researchgate.net/profile/Marthe-De-Crouy-Chanel"
   scopus           : # URL
 
   # Repositories and software development
