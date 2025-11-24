@@ -88,7 +88,7 @@ publication_category:
   manuscripts:
     title: 'Articles de journaux'    
   conferences:
-    title: 'Actes de conférences'
+    title: 'Actes de conférences internationales'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
