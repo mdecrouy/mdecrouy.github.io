@@ -48,6 +48,17 @@
   }
 }
 
+.archive__item {
+  p {
+    margin-bottom: 0.5em;
+    margin-top: 0;
+  }
+  
+  .page__meta {
+    margin-bottom: 0.25em;
+  }
+}
+
 /* remove border*/
 .page__content {
 
